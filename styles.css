@@ -42,7 +42,7 @@ filter: alpha(opacity=11.2rem)
   .navbar-brand {
     font-family:"Ubuntu";
     font-size:1.5rem;
-    color: black !important;
+    color: white !important;
     font-weight: 700;
   
   }
